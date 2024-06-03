@@ -15,7 +15,7 @@ A Software Engineer specializing in TypeScript, ReactJS and NodeJS. Apart from m
 ### 📘 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Type-Safe Actions, Action Creators and Reducers in Redux](https://javascript.plainenglish.io/type-safe-actions-action-creators-and-reducers-in-redux-22c28013d1c6?source=rss-c5e5bca27920------2)
+- [Type-Safe Actions, Action Creators and Reducers in Redux](https://medium.com/@klshriharsha/type-safe-actions-action-creators-and-reducers-in-redux-22c28013d1c6?source=rss-c5e5bca27920------2)
 - [API Polling using Redux-Sagas](https://medium.com/@klshriharsha/api-polling-using-redux-sagas-4d47c03bc2ed?source=rss-c5e5bca27920------2)
 <!-- BLOG-POST-LIST:END -->
 
