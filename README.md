@@ -2,7 +2,7 @@
 
 ---
 
-A Software Engineer specializing in TypeScript, ReactJS and NodeJS. Apart from my full-time job, I enjoy working on cool side-projects, which you'll find in my GitHub profile. I occassionaly write articles on [Medium](https://medium.com/@klshriharsha).
+A Software Engineer specializing in Fullstack web development. Apart from my full-time job, I enjoy working on cool side-projects, which you'll find in my GitHub profile. I occassionaly write articles on [Medium](https://medium.com/@klshriharsha).
 
 ---
 
