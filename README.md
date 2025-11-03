@@ -22,7 +22,3 @@ A Software Engineer specializing in Fullstack web development. Apart from my ful
 ▶ [...more medium articles](https://medium.com/@klshriharsha)
 
 ---
-
-### &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klshriharsha&hide=html&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Shriharsa KL's GitHub stats](https://github-readme-stats.vercel.app/api?username=klshriharsha&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
