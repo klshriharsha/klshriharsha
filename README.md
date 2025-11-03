@@ -1,4 +1,4 @@
-### Hi there <img src="./assets/wave.gif" width="30px">, I am Shriharsha KL!
+### <img src="./assets/wave.gif" width="30px"> Hi there, I am Shriharsha!
 
 ---
 
